@@ -1,0 +1,3 @@
+Locales['de'] = {
+  ['garderobe'] = 'Umkleide',
+}
